@@ -1,0 +1,11 @@
+{
+  "name": "qrv-supply-chain-demo",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
